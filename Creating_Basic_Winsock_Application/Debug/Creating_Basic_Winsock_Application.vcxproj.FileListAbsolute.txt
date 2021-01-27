@@ -1,0 +1,2 @@
+D:\Santiago\Workspace\Playground\Creating_Basic_Winsock_Application\Debug\Creating_Basic_Winsock_Application.exe
+D:\Santiago\Workspace\Playground\Creating_Basic_Winsock_Application\Debug\Creating_Basic_Winsock_Application.pdb
